@@ -1,7 +1,11 @@
-
 # how to get swagger example
 
-https://www.youtube.com/watch?v=To9s4dOAz50
+by looking at how ppl did in vid e.g.
+
+[Generate HTTP REST API mocks based on Swagger or OpenAPI specs and Traffic Parrot
+](https://www.youtube.com/watch?v=To9s4dOAz50)
+
+For mock server just use posman !
 
 # experience
 
